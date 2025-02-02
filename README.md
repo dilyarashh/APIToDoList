@@ -1,1 +1,1 @@
-Backend для приложения списка дел
+API для To do list
